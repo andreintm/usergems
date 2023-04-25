@@ -1,0 +1,2 @@
+#m      h     dom  mon	dow    command
+*       *     *    *    *    php /srv/app/artisan schedule:run >> /dev/null 2>&1

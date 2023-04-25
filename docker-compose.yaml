@@ -1,0 +1,79 @@
+version: '3.8'
+
+services:
+  usergems-app:
+    container_name: usergems-app
+    build: ./docker/local/app
+    env_file: ./.env
+    volumes:
+      - '.:/srv/app'
+    depends_on:
+      - usergems-database
+    networks:
+      - usergems
+    command: [ "app" ]
+
+  usergems-nginx:
+    container_name: usergems-nginx
+    image: 'nginx:1.24-alpine'
+    depends_on:
+      - usergems-app
+    networks:
+      - usergems
+    ports:
+      - '8080:80'
+    volumes:
+      - './docker/local/app/nginx/conf.d:/etc/nginx/conf.d:ro'
+      - './:/srv/app:ro'
+
+  usergems-horizon:
+    container_name: usergems-horizon
+    build: ./docker/local/app
+    env_file: ./.env
+    volumes:
+      - '.:/srv/app'
+    networks:
+      - usergems
+    depends_on:
+      - usergems-database
+      - usergems-redis
+    command: [ "horizon" ]
+
+  usergems-database:
+    image: postgres:15.2-alpine
+    container_name: usergems-database
+    ports:
+      - '5432:5432'
+    env_file:
+      - ./.env
+    environment:
+      PGPASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_DATABASE}
+      POSTGRES_USER: ${DB_USERNAME}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+    networks:
+      - usergems
+    volumes:
+      - usergems-db-data:/var/lib/postgresql/data
+    healthcheck:
+      test: [ "CMD", "pg_isready", "-q", "-d", "app", "-U", "app" ]
+
+  usergems-redis:
+    image: redis:7.0-alpine
+    container_name: usergems-redis
+    ports:
+      - '6379:6379'
+    volumes:
+      - usergems-redis-data:/data
+    networks:
+      - usergems
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+
+volumes:
+  usergems-db-data: {}
+  usergems-redis-data: {}
+
+networks:
+  usergems:
+    driver: bridge

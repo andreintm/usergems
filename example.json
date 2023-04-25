@@ -1,0 +1,1042 @@
+[
+    {
+        "start_at": "09:30 AM",
+        "end_at": "10:00 AM",
+        "length": "30m",
+        "title": "UserGems x Algolia",
+        "colleagues": [
+            {
+                "first_name": "Stephan",
+                "last_name": "Crist",
+                "status": true
+            },
+            {
+                "first_name": "Joss",
+                "last_name": "Hill",
+                "status": true
+            }
+        ],
+        "joiners": [
+            {
+                "first_name": "Demi",
+                "last_name": "Malnar",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHPUFYhbLcAqw/profile-displayphoto-shrink_200_200/0/1516239694635?e=1664409600&v=beta&t=xmiukyVVGR6edLzuNnkBjA0vzfvEg-COOCmcKIjDcGk",
+                "linkedin_url": "https://www.linkedin.com/in/demimalnar",
+                "title": "GTM Chief of Staff",
+                "status": true,
+                "total_meetings": 12,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 4
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            },
+            {
+                "first_name": "Joshua",
+                "last_name": "Mateer",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C5603AQGb0ATcWHnC6A/profile-displayphoto-shrink_200_200/0/1630336547843?e=1664409600&v=beta&t=8w4kVvRAR7auRV5NSMVG9afPKAaO2Axe_K2FT9FQwfI",
+                "linkedin_url": "https://www.linkedin.com/in/josh-mateer-37615665",
+                "title": "Sr Manager, Marketing Operations and Technology",
+                "status": true,
+                "total_meetings": 11,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            },
+            {
+                "first_name": "Woojin",
+                "last_name": "Shin",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4E03AQE18QqWycaVXw/profile-displayphoto-shrink_200_200/0/1617667686101?e=1664409600&v=beta&t=KoVixUXURtvsxO1Y11f281Re4i1DL1W8cOmtm-SVXJ4",
+                "linkedin_url": "https://www.linkedin.com/in/woojinxshin",
+                "title": "Manager, North America Business Development",
+                "status": true,
+                "total_meetings": 3,
+                "met_with": {
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            },
+            {
+                "first_name": "Aletta",
+                "last_name": "Noujaim",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4E03AQFXfKcuS0FqOA/profile-displayphoto-shrink_200_200/0/1640522676592?e=1664409600&v=beta&t=hIPnQK0pL16Re1gizVvSpVIbFIO8ZBx6n2PfXazjVXA",
+                "linkedin_url": "https://www.linkedin.com/in/alettamarce",
+                "title": "Director of Sales Development, EMEA & emerging markets",
+                "status": false,
+                "total_meetings": 4,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            }
+        ]
+    },
+    {
+        "start_at": "10:00 AM",
+        "end_at": "12:00 PM",
+        "length": "2h",
+        "title": "UserGems x Algolia",
+        "colleagues": [
+            {
+                "first_name": "Stephan",
+                "last_name": "Crist",
+                "status": true
+            },
+            {
+                "first_name": "Christian",
+                "last_name": "Sawayn",
+                "status": true
+            }
+        ],
+        "joiners": [
+            {
+                "first_name": "Demi",
+                "last_name": "Malnar",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHPUFYhbLcAqw/profile-displayphoto-shrink_200_200/0/1516239694635?e=1664409600&v=beta&t=xmiukyVVGR6edLzuNnkBjA0vzfvEg-COOCmcKIjDcGk",
+                "linkedin_url": "https://www.linkedin.com/in/demimalnar",
+                "title": "GTM Chief of Staff",
+                "status": true,
+                "total_meetings": 12,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 4
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            },
+            {
+                "first_name": "Joshua",
+                "last_name": "Mateer",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C5603AQGb0ATcWHnC6A/profile-displayphoto-shrink_200_200/0/1630336547843?e=1664409600&v=beta&t=8w4kVvRAR7auRV5NSMVG9afPKAaO2Axe_K2FT9FQwfI",
+                "linkedin_url": "https://www.linkedin.com/in/josh-mateer-37615665",
+                "title": "Sr Manager, Marketing Operations and Technology",
+                "status": true,
+                "total_meetings": 11,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            },
+            {
+                "first_name": "Aletta",
+                "last_name": "Noujaim",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4E03AQFXfKcuS0FqOA/profile-displayphoto-shrink_200_200/0/1640522676592?e=1664409600&v=beta&t=hIPnQK0pL16Re1gizVvSpVIbFIO8ZBx6n2PfXazjVXA",
+                "linkedin_url": "https://www.linkedin.com/in/alettamarce",
+                "title": "Director of Sales Development, EMEA & emerging markets",
+                "status": true,
+                "total_meetings": 4,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            }
+        ]
+    },
+    {
+        "start_at": "11:00 AM",
+        "end_at": "12:00 PM",
+        "length": "1h",
+        "title": "UserGems x Algolia",
+        "colleagues": [
+            {
+                "first_name": "Stephan",
+                "last_name": "Crist",
+                "status": true
+            },
+            {
+                "first_name": "Blaise",
+                "last_name": "Hartmann",
+                "status": true
+            }
+        ],
+        "joiners": [
+            {
+                "first_name": "Demi",
+                "last_name": "Malnar",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHPUFYhbLcAqw/profile-displayphoto-shrink_200_200/0/1516239694635?e=1664409600&v=beta&t=xmiukyVVGR6edLzuNnkBjA0vzfvEg-COOCmcKIjDcGk",
+                "linkedin_url": "https://www.linkedin.com/in/demimalnar",
+                "title": "GTM Chief of Staff",
+                "status": true,
+                "total_meetings": 12,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 4
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            },
+            {
+                "first_name": "Joshua",
+                "last_name": "Mateer",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C5603AQGb0ATcWHnC6A/profile-displayphoto-shrink_200_200/0/1630336547843?e=1664409600&v=beta&t=8w4kVvRAR7auRV5NSMVG9afPKAaO2Axe_K2FT9FQwfI",
+                "linkedin_url": "https://www.linkedin.com/in/josh-mateer-37615665",
+                "title": "Sr Manager, Marketing Operations and Technology",
+                "status": true,
+                "total_meetings": 11,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            }
+        ]
+    },
+    {
+        "start_at": "01:00 PM",
+        "end_at": "02:00 PM",
+        "length": "1h",
+        "title": "UserGems x Algolia",
+        "colleagues": [
+            {
+                "first_name": "Stephan",
+                "last_name": "Crist",
+                "status": true
+            },
+            {
+                "first_name": "Blaise",
+                "last_name": "Hartmann",
+                "status": true
+            }
+        ],
+        "joiners": [
+            {
+                "first_name": "Demi",
+                "last_name": "Malnar",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHPUFYhbLcAqw/profile-displayphoto-shrink_200_200/0/1516239694635?e=1664409600&v=beta&t=xmiukyVVGR6edLzuNnkBjA0vzfvEg-COOCmcKIjDcGk",
+                "linkedin_url": "https://www.linkedin.com/in/demimalnar",
+                "title": "GTM Chief of Staff",
+                "status": true,
+                "total_meetings": 12,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 4
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            }
+        ]
+    },
+    {
+        "start_at": "01:00 PM",
+        "end_at": "02:00 PM",
+        "length": "1h",
+        "title": "UserGems x Algolia",
+        "colleagues": [
+            {
+                "first_name": "Stephan",
+                "last_name": "Crist",
+                "status": true
+            },
+            {
+                "first_name": "Blaise",
+                "last_name": "Hartmann",
+                "status": true
+            }
+        ],
+        "joiners": [
+            {
+                "first_name": "Demi",
+                "last_name": "Malnar",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHPUFYhbLcAqw/profile-displayphoto-shrink_200_200/0/1516239694635?e=1664409600&v=beta&t=xmiukyVVGR6edLzuNnkBjA0vzfvEg-COOCmcKIjDcGk",
+                "linkedin_url": "https://www.linkedin.com/in/demimalnar",
+                "title": "GTM Chief of Staff",
+                "status": true,
+                "total_meetings": 12,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 4
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            }
+        ]
+    },
+    {
+        "start_at": "01:00 PM",
+        "end_at": "01:30 PM",
+        "length": "30m",
+        "title": "UserGems x Algolia",
+        "colleagues": [
+            {
+                "first_name": "Stephan",
+                "last_name": "Crist",
+                "status": true
+            },
+            {
+                "first_name": "Blaise",
+                "last_name": "Hartmann",
+                "status": true
+            }
+        ],
+        "joiners": [
+            {
+                "first_name": "Demi",
+                "last_name": "Malnar",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHPUFYhbLcAqw/profile-displayphoto-shrink_200_200/0/1516239694635?e=1664409600&v=beta&t=xmiukyVVGR6edLzuNnkBjA0vzfvEg-COOCmcKIjDcGk",
+                "linkedin_url": "https://www.linkedin.com/in/demimalnar",
+                "title": "GTM Chief of Staff",
+                "status": true,
+                "total_meetings": 12,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 4
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            }
+        ]
+    },
+    {
+        "start_at": "09:30 AM",
+        "end_at": "10:00 AM",
+        "length": "30m",
+        "title": "UserGems x Algolia",
+        "colleagues": [
+            {
+                "first_name": "Stephan",
+                "last_name": "Crist",
+                "status": true
+            }
+        ],
+        "joiners": [
+            {
+                "first_name": "Demi",
+                "last_name": "Malnar",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHPUFYhbLcAqw/profile-displayphoto-shrink_200_200/0/1516239694635?e=1664409600&v=beta&t=xmiukyVVGR6edLzuNnkBjA0vzfvEg-COOCmcKIjDcGk",
+                "linkedin_url": "https://www.linkedin.com/in/demimalnar",
+                "title": "GTM Chief of Staff",
+                "status": true,
+                "total_meetings": 12,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 4
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            },
+            {
+                "first_name": "Joshua",
+                "last_name": "Mateer",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C5603AQGb0ATcWHnC6A/profile-displayphoto-shrink_200_200/0/1630336547843?e=1664409600&v=beta&t=8w4kVvRAR7auRV5NSMVG9afPKAaO2Axe_K2FT9FQwfI",
+                "linkedin_url": "https://www.linkedin.com/in/josh-mateer-37615665",
+                "title": "Sr Manager, Marketing Operations and Technology",
+                "status": true,
+                "total_meetings": 11,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            },
+            {
+                "first_name": "Woojin",
+                "last_name": "Shin",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4E03AQE18QqWycaVXw/profile-displayphoto-shrink_200_200/0/1617667686101?e=1664409600&v=beta&t=KoVixUXURtvsxO1Y11f281Re4i1DL1W8cOmtm-SVXJ4",
+                "linkedin_url": "https://www.linkedin.com/in/woojinxshin",
+                "title": "Manager, North America Business Development",
+                "status": true,
+                "total_meetings": 3,
+                "met_with": {
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            },
+            {
+                "first_name": "Aletta",
+                "last_name": "Noujaim",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4E03AQFXfKcuS0FqOA/profile-displayphoto-shrink_200_200/0/1640522676592?e=1664409600&v=beta&t=hIPnQK0pL16Re1gizVvSpVIbFIO8ZBx6n2PfXazjVXA",
+                "linkedin_url": "https://www.linkedin.com/in/alettamarce",
+                "title": "Director of Sales Development, EMEA & emerging markets",
+                "status": true,
+                "total_meetings": 4,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            }
+        ]
+    },
+    {
+        "start_at": "02:30 PM",
+        "end_at": "03:00 PM",
+        "length": "30m",
+        "title": "UserGems x Algolia",
+        "colleagues": [
+            {
+                "first_name": "Stephan",
+                "last_name": "Crist",
+                "status": true
+            }
+        ],
+        "joiners": [
+            {
+                "first_name": "Demi",
+                "last_name": "Malnar",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHPUFYhbLcAqw/profile-displayphoto-shrink_200_200/0/1516239694635?e=1664409600&v=beta&t=xmiukyVVGR6edLzuNnkBjA0vzfvEg-COOCmcKIjDcGk",
+                "linkedin_url": "https://www.linkedin.com/in/demimalnar",
+                "title": "GTM Chief of Staff",
+                "status": true,
+                "total_meetings": 12,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 4
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            },
+            {
+                "first_name": "Joshua",
+                "last_name": "Mateer",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C5603AQGb0ATcWHnC6A/profile-displayphoto-shrink_200_200/0/1630336547843?e=1664409600&v=beta&t=8w4kVvRAR7auRV5NSMVG9afPKAaO2Axe_K2FT9FQwfI",
+                "linkedin_url": "https://www.linkedin.com/in/josh-mateer-37615665",
+                "title": "Sr Manager, Marketing Operations and Technology",
+                "status": true,
+                "total_meetings": 11,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            },
+            {
+                "first_name": "Woojin",
+                "last_name": "Shin",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4E03AQE18QqWycaVXw/profile-displayphoto-shrink_200_200/0/1617667686101?e=1664409600&v=beta&t=KoVixUXURtvsxO1Y11f281Re4i1DL1W8cOmtm-SVXJ4",
+                "linkedin_url": "https://www.linkedin.com/in/woojinxshin",
+                "title": "Manager, North America Business Development",
+                "status": true,
+                "total_meetings": 3,
+                "met_with": {
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            },
+            {
+                "first_name": "Aletta",
+                "last_name": "Noujaim",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4E03AQFXfKcuS0FqOA/profile-displayphoto-shrink_200_200/0/1640522676592?e=1664409600&v=beta&t=hIPnQK0pL16Re1gizVvSpVIbFIO8ZBx6n2PfXazjVXA",
+                "linkedin_url": "https://www.linkedin.com/in/alettamarce",
+                "title": "Director of Sales Development, EMEA & emerging markets",
+                "status": true,
+                "total_meetings": 4,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            }
+        ]
+    },
+    {
+        "start_at": "02:30 PM",
+        "end_at": "03:00 PM",
+        "length": "30m",
+        "title": "UserGems x Algolia",
+        "colleagues": [
+            {
+                "first_name": "Stephan",
+                "last_name": "Crist",
+                "status": true
+            }
+        ],
+        "joiners": [
+            {
+                "first_name": "Demi",
+                "last_name": "Malnar",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHPUFYhbLcAqw/profile-displayphoto-shrink_200_200/0/1516239694635?e=1664409600&v=beta&t=xmiukyVVGR6edLzuNnkBjA0vzfvEg-COOCmcKIjDcGk",
+                "linkedin_url": "https://www.linkedin.com/in/demimalnar",
+                "title": "GTM Chief of Staff",
+                "status": true,
+                "total_meetings": 12,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 4
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            },
+            {
+                "first_name": "Joshua",
+                "last_name": "Mateer",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C5603AQGb0ATcWHnC6A/profile-displayphoto-shrink_200_200/0/1630336547843?e=1664409600&v=beta&t=8w4kVvRAR7auRV5NSMVG9afPKAaO2Axe_K2FT9FQwfI",
+                "linkedin_url": "https://www.linkedin.com/in/josh-mateer-37615665",
+                "title": "Sr Manager, Marketing Operations and Technology",
+                "status": true,
+                "total_meetings": 11,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            }
+        ]
+    },
+    {
+        "start_at": "01:30 PM",
+        "end_at": "03:00 PM",
+        "length": "1h",
+        "title": "UserGems x Algolia",
+        "colleagues": [
+            {
+                "first_name": "Stephan",
+                "last_name": "Crist",
+                "status": true
+            }
+        ],
+        "joiners": [
+            {
+                "first_name": "Demi",
+                "last_name": "Malnar",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHPUFYhbLcAqw/profile-displayphoto-shrink_200_200/0/1516239694635?e=1664409600&v=beta&t=xmiukyVVGR6edLzuNnkBjA0vzfvEg-COOCmcKIjDcGk",
+                "linkedin_url": "https://www.linkedin.com/in/demimalnar",
+                "title": "GTM Chief of Staff",
+                "status": true,
+                "total_meetings": 12,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 4
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            },
+            {
+                "first_name": "Joshua",
+                "last_name": "Mateer",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C5603AQGb0ATcWHnC6A/profile-displayphoto-shrink_200_200/0/1630336547843?e=1664409600&v=beta&t=8w4kVvRAR7auRV5NSMVG9afPKAaO2Axe_K2FT9FQwfI",
+                "linkedin_url": "https://www.linkedin.com/in/josh-mateer-37615665",
+                "title": "Sr Manager, Marketing Operations and Technology",
+                "status": true,
+                "total_meetings": 11,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            }
+        ]
+    },
+    {
+        "start_at": "10:30 AM",
+        "end_at": "12:00 PM",
+        "length": "1h",
+        "title": "UserGems x Algolia",
+        "colleagues": [
+            {
+                "first_name": "Stephan",
+                "last_name": "Crist",
+                "status": true
+            }
+        ],
+        "joiners": [
+            {
+                "first_name": "Demi",
+                "last_name": "Malnar",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHPUFYhbLcAqw/profile-displayphoto-shrink_200_200/0/1516239694635?e=1664409600&v=beta&t=xmiukyVVGR6edLzuNnkBjA0vzfvEg-COOCmcKIjDcGk",
+                "linkedin_url": "https://www.linkedin.com/in/demimalnar",
+                "title": "GTM Chief of Staff",
+                "status": true,
+                "total_meetings": 12,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 4
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            },
+            {
+                "first_name": "Joshua",
+                "last_name": "Mateer",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C5603AQGb0ATcWHnC6A/profile-displayphoto-shrink_200_200/0/1630336547843?e=1664409600&v=beta&t=8w4kVvRAR7auRV5NSMVG9afPKAaO2Axe_K2FT9FQwfI",
+                "linkedin_url": "https://www.linkedin.com/in/josh-mateer-37615665",
+                "title": "Sr Manager, Marketing Operations and Technology",
+                "status": true,
+                "total_meetings": 11,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            }
+        ]
+    },
+    {
+        "start_at": "02:30 PM",
+        "end_at": "03:00 PM",
+        "length": "30m",
+        "title": "UserGems x Algolia",
+        "colleagues": [
+            {
+                "first_name": "Stephan",
+                "last_name": "Crist",
+                "status": true
+            }
+        ],
+        "joiners": [
+            {
+                "first_name": "Demi",
+                "last_name": "Malnar",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHPUFYhbLcAqw/profile-displayphoto-shrink_200_200/0/1516239694635?e=1664409600&v=beta&t=xmiukyVVGR6edLzuNnkBjA0vzfvEg-COOCmcKIjDcGk",
+                "linkedin_url": "https://www.linkedin.com/in/demimalnar",
+                "title": "GTM Chief of Staff",
+                "status": true,
+                "total_meetings": 12,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 4
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            },
+            {
+                "first_name": "Joshua",
+                "last_name": "Mateer",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C5603AQGb0ATcWHnC6A/profile-displayphoto-shrink_200_200/0/1630336547843?e=1664409600&v=beta&t=8w4kVvRAR7auRV5NSMVG9afPKAaO2Axe_K2FT9FQwfI",
+                "linkedin_url": "https://www.linkedin.com/in/josh-mateer-37615665",
+                "title": "Sr Manager, Marketing Operations and Technology",
+                "status": true,
+                "total_meetings": 11,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            }
+        ]
+    },
+    {
+        "start_at": "03:30 PM",
+        "end_at": "05:00 PM",
+        "length": "1h",
+        "title": "UserGems x Algolia",
+        "colleagues": [
+            {
+                "first_name": "Stephan",
+                "last_name": "Crist",
+                "status": true
+            }
+        ],
+        "joiners": [
+            {
+                "first_name": "Joshua",
+                "last_name": "Mateer",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C5603AQGb0ATcWHnC6A/profile-displayphoto-shrink_200_200/0/1630336547843?e=1664409600&v=beta&t=8w4kVvRAR7auRV5NSMVG9afPKAaO2Axe_K2FT9FQwfI",
+                "linkedin_url": "https://www.linkedin.com/in/josh-mateer-37615665",
+                "title": "Sr Manager, Marketing Operations and Technology",
+                "status": true,
+                "total_meetings": 11,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            }
+        ]
+    },
+    {
+        "start_at": "09:30 AM",
+        "end_at": "11:00 AM",
+        "length": "1h",
+        "title": "UserGems x Algolia",
+        "colleagues": [
+            {
+                "first_name": "Stephan",
+                "last_name": "Crist",
+                "status": true
+            }
+        ],
+        "joiners": [
+            {
+                "first_name": "Joshua",
+                "last_name": "Mateer",
+                "avatar_url": "https://media-exp1.licdn.com/dms/image/C5603AQGb0ATcWHnC6A/profile-displayphoto-shrink_200_200/0/1630336547843?e=1664409600&v=beta&t=8w4kVvRAR7auRV5NSMVG9afPKAaO2Axe_K2FT9FQwfI",
+                "linkedin_url": "https://www.linkedin.com/in/josh-mateer-37615665",
+                "title": "Sr Manager, Marketing Operations and Technology",
+                "status": true,
+                "total_meetings": 11,
+                "met_with": {
+                    "2": {
+                        "colleague": "Christian",
+                        "count": 1
+                    },
+                    "3": {
+                        "colleague": "Joss",
+                        "count": 1
+                    },
+                    "4": {
+                        "colleague": "Blaise",
+                        "count": 1
+                    }
+                },
+                "company": {
+                    "name": "Algolia",
+                    "employees": 700,
+                    "linkedin_url": "https://www.linkedin.com/company/algolia"
+                }
+            }
+        ]
+    }
+]
