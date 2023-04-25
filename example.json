@@ -6,11 +6,6 @@
         "title": "UserGems x Algolia",
         "colleagues": [
             {
-                "first_name": "Stephan",
-                "last_name": "Crist",
-                "status": true
-            },
-            {
                 "first_name": "Joss",
                 "last_name": "Hill",
                 "status": true
@@ -126,11 +121,6 @@
         "title": "UserGems x Algolia",
         "colleagues": [
             {
-                "first_name": "Stephan",
-                "last_name": "Crist",
-                "status": true
-            },
-            {
                 "first_name": "Christian",
                 "last_name": "Sawayn",
                 "status": true
@@ -226,11 +216,6 @@
         "title": "UserGems x Algolia",
         "colleagues": [
             {
-                "first_name": "Stephan",
-                "last_name": "Crist",
-                "status": true
-            },
-            {
                 "first_name": "Blaise",
                 "last_name": "Hartmann",
                 "status": true
@@ -302,11 +287,6 @@
         "title": "UserGems x Algolia",
         "colleagues": [
             {
-                "first_name": "Stephan",
-                "last_name": "Crist",
-                "status": true
-            },
-            {
                 "first_name": "Blaise",
                 "last_name": "Hartmann",
                 "status": true
@@ -349,11 +329,6 @@
         "length": "1h",
         "title": "UserGems x Algolia",
         "colleagues": [
-            {
-                "first_name": "Stephan",
-                "last_name": "Crist",
-                "status": true
-            },
             {
                 "first_name": "Blaise",
                 "last_name": "Hartmann",
@@ -398,11 +373,6 @@
         "title": "UserGems x Algolia",
         "colleagues": [
             {
-                "first_name": "Stephan",
-                "last_name": "Crist",
-                "status": true
-            },
-            {
                 "first_name": "Blaise",
                 "last_name": "Hartmann",
                 "status": true
@@ -444,13 +414,7 @@
         "end_at": "10:00 AM",
         "length": "30m",
         "title": "UserGems x Algolia",
-        "colleagues": [
-            {
-                "first_name": "Stephan",
-                "last_name": "Crist",
-                "status": true
-            }
-        ],
+        "colleagues": [],
         "joiners": [
             {
                 "first_name": "Demi",
@@ -559,13 +523,7 @@
         "end_at": "03:00 PM",
         "length": "30m",
         "title": "UserGems x Algolia",
-        "colleagues": [
-            {
-                "first_name": "Stephan",
-                "last_name": "Crist",
-                "status": true
-            }
-        ],
+        "colleagues": [],
         "joiners": [
             {
                 "first_name": "Demi",
@@ -674,13 +632,7 @@
         "end_at": "03:00 PM",
         "length": "30m",
         "title": "UserGems x Algolia",
-        "colleagues": [
-            {
-                "first_name": "Stephan",
-                "last_name": "Crist",
-                "status": true
-            }
-        ],
+        "colleagues": [],
         "joiners": [
             {
                 "first_name": "Demi",
@@ -745,13 +697,7 @@
         "end_at": "03:00 PM",
         "length": "1h",
         "title": "UserGems x Algolia",
-        "colleagues": [
-            {
-                "first_name": "Stephan",
-                "last_name": "Crist",
-                "status": true
-            }
-        ],
+        "colleagues": [],
         "joiners": [
             {
                 "first_name": "Demi",
@@ -816,13 +762,7 @@
         "end_at": "12:00 PM",
         "length": "1h",
         "title": "UserGems x Algolia",
-        "colleagues": [
-            {
-                "first_name": "Stephan",
-                "last_name": "Crist",
-                "status": true
-            }
-        ],
+        "colleagues": [],
         "joiners": [
             {
                 "first_name": "Demi",
@@ -887,13 +827,7 @@
         "end_at": "03:00 PM",
         "length": "30m",
         "title": "UserGems x Algolia",
-        "colleagues": [
-            {
-                "first_name": "Stephan",
-                "last_name": "Crist",
-                "status": true
-            }
-        ],
+        "colleagues": [],
         "joiners": [
             {
                 "first_name": "Demi",
@@ -958,13 +892,7 @@
         "end_at": "05:00 PM",
         "length": "1h",
         "title": "UserGems x Algolia",
-        "colleagues": [
-            {
-                "first_name": "Stephan",
-                "last_name": "Crist",
-                "status": true
-            }
-        ],
+        "colleagues": [],
         "joiners": [
             {
                 "first_name": "Joshua",
@@ -1001,13 +929,7 @@
         "end_at": "11:00 AM",
         "length": "1h",
         "title": "UserGems x Algolia",
-        "colleagues": [
-            {
-                "first_name": "Stephan",
-                "last_name": "Crist",
-                "status": true
-            }
-        ],
+        "colleagues": [],
         "joiners": [
             {
                 "first_name": "Joshua",

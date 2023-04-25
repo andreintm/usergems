@@ -50,6 +50,9 @@ readonly class JsonEmailService implements EmailServiceInterface
 
         /** @var Attendee $attendee */
         foreach ($event->attendees as $attendee) {
+            if ($attendee->id === $event->user->attendee->id) {
+                continue;
+            }
 
             if ($event->user->attendee->company->id === $attendee->company->id) {
                 $colleagues[] = [

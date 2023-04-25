@@ -13,7 +13,7 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule): void
     {
-         $schedule->command(CalendarEvents::class)->everyMinute();
+         $schedule->command(CalendarEvents::class)->hourly();
     }
 
     /**
