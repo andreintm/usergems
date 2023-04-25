@@ -75,9 +75,9 @@ class AttendeeRepository implements AttendeeRepositoryInterface
     {
         return $attendee
             ->events()
-            ->with('attendees', static function ($query) use ($excludeAttendee) {
+            ->with('attendees', static function ($query) use ($excludeAttendee, $attendee) {
                 return $query
-                    ->where('attendees.company_id', $excludeAttendee->company->id)
+                    ->where('attendees.company_id', $attendee->company->id)
                     ->where('attendees.id', '<>', $excludeAttendee->id);
             })
             ->get()
